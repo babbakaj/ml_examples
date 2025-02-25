@@ -1,1 +1,1 @@
-# ml_examples
+Some examples on machine learning and pattern recognition
